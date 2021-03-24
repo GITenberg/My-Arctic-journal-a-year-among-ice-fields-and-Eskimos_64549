@@ -1,0 +1,45 @@
+_repo: My-Arctic-journal-a-year-among-ice-fields-and-Eskimos_64549
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Peary, Robert E. (Robert Edwin)
+    aliases:
+    - Peary, Robert Edwin
+    - Peary, R. E. (Robert Edwin)
+    birthdate: 1856
+    deathdate: 1920
+    gutenberg_agent_id: '8383'
+    url: http://www.gutenberg.org/2009/agents/8383
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Peary
+creator:
+  author:
+    agent_name: Peary, Josephine Diebitsch
+    aliases:
+    - Diebitsch-Peary, Josephine
+    - Diebitsch, Josephine Cecilia
+    birthdate: 1863
+    deathdate: 1955
+    gutenberg_agent_id: '50491'
+    url: http://www.gutenberg.org/2009/agents/50491
+    wikipedia: https://en.wikipedia.org/wiki/Josephine_Diebitsch_Peary
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Greenland Expedition (1891-1892)'
+- !lcc 'G'
+- !lcsh 'Women explorers -- Greenland'
+- !lcsh 'Peary, Josephine Diebitsch, 1863-1955 -- Travel -- Greenland'
+- !lcsh 'Peary, Robert E. (Robert Edwin), 1856-1920 -- Travel -- Greenland'
+- !lcsh 'Arctic regions'
+- !lcsh 'Peary, Josephine Diebitsch, 1863-1955 -- Diaries'
+- !lcsh 'Greenland -- Description and travel'
+- GITenberg
+title: 'My Arctic journal: a year among ice-fields and Eskimos'
+url: http://www.gutenberg.org/ebooks/64549
